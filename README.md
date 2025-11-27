@@ -1,6 +1,6 @@
-# Olá! Me chamo [Seu Nome]! 👋
+# Olá! Me chamo Rafael Moraes! 👋
 
-Sou um desenvolvedor backend trabalhando com PHP 🐘
+Sou estudante e desenvolvedor!
 
 ### Sobre mim
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Facens - Sorocaba/SP
